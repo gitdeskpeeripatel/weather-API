@@ -50,9 +50,11 @@ weather/
 
 ### 📸 Preview
  
->![corona 1](https://github.com/user-attachments/assets/3c485671-cef6-40c2-858a-ff0b21d47a92)
+>![weather](https://github.com/user-attachments/assets/47920cfb-ecd0-434a-9208-be0cfa424b66)
 
-> ![corona](https://github.com/user-attachments/assets/c3be1a62-7389-492a-8648-f3406ff6499d)
+
+>![weather1](https://github.com/user-attachments/assets/5d9ef831-af4e-4ddb-bba5-815c05e03d15)
+
  
  
 ---
