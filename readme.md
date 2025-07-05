@@ -13,7 +13,7 @@ weather/
     └── assets/
       └── weather-forecast.png  # Static image used in UI
 
----
+
 
 ### 🧰 Technologies Used
 
