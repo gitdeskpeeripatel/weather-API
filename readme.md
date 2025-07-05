@@ -1,28 +1,29 @@
 ## 📁 Project Name: Weather Forecast Web App
 
----
 
 ### 📂 Folder Structure
 
 weather/
 
 
-├── index.html              # Main HTML file (UI layout)
+    ├── index.html              # Main HTML file (UI layout)
 
 
-├── script.js               # JavaScript logic (API + DOM interaction)
+    ├── script.js               # JavaScript logic (API + DOM interaction)
 
 
-├── style.css               # Custom styles
+    ├── style.css               # Custom styles
 
 
-├── .dist/                  # (Optional) Distribution or build folder (empty or placeholder)
+    ├── .dist/                  # (Optional) Distribution or build folder (empty or placeholder)
 
 
-└── assets/
+    └── assets/
 
     
-    └── weather-forecast.png  # Static image used in UI
+      └── weather-forecast.png  # Static image used in UI
+
+---
 
 ### 🧰 Technologies Used
 
