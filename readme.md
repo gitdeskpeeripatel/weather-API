@@ -49,8 +49,7 @@ weather/
 ---
 
 ### 📸 Preview
-
-> Include a screenshot here if you have one:  
+ 
 >![corona 1](https://github.com/user-attachments/assets/3c485671-cef6-40c2-858a-ff0b21d47a92)
 
 > ![corona](https://github.com/user-attachments/assets/c3be1a62-7389-492a-8648-f3406ff6499d)
