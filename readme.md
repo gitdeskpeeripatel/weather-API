@@ -14,7 +14,6 @@ weather/
     ├── index.html              # Main HTML file (UI layout)
     ├── script.js               # JavaScript logic (API + DOM interaction)
     ├── style.css               # Custom styles
-    ├── .dist/                  # (Optional) Distribution or build folder (empty or placeholder)
     └── assets/
       └── weather-forecast.png  # Static image used in UI
 
