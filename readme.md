@@ -57,8 +57,4 @@ weather/
 ---
 
 
-### 🙌 Author
-
-> Developed by Perry Patel  
-
 
